@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/linkedinv3/!svn/ver/1/vendor/plugins/delayed_job
+END
+benchmarks.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/linkedinv3/!svn/ver/1/vendor/plugins/delayed_job/benchmarks.rb
+END
+Rakefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/linkedinv3/!svn/ver/1/vendor/plugins/delayed_job/Rakefile
+END
+delayed_job.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/linkedinv3/!svn/ver/1/vendor/plugins/delayed_job/delayed_job.gemspec
+END
+VERSION
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/linkedinv3/!svn/ver/1/vendor/plugins/delayed_job/VERSION
+END
+init.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/linkedinv3/!svn/ver/1/vendor/plugins/delayed_job/init.rb
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/linkedinv3/!svn/ver/1/vendor/plugins/delayed_job/CHANGELOG
+END
+.rvmrc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/linkedinv3/!svn/ver/1/vendor/plugins/delayed_job/.rvmrc
+END
+Gemfile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/linkedinv3/!svn/ver/1/vendor/plugins/delayed_job/Gemfile
+END
+MIT-LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/linkedinv3/!svn/ver/1/vendor/plugins/delayed_job/MIT-LICENSE
+END
+README.textile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/linkedinv3/!svn/ver/1/vendor/plugins/delayed_job/README.textile
+END

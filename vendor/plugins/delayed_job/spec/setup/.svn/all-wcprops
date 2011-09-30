@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/linkedinv3/!svn/ver/1/vendor/plugins/delayed_job/spec/setup
+END
+data_mapper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/linkedinv3/!svn/ver/1/vendor/plugins/delayed_job/spec/setup/data_mapper.rb
+END
+mongo_mapper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/linkedinv3/!svn/ver/1/vendor/plugins/delayed_job/spec/setup/mongo_mapper.rb
+END
+active_record.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/linkedinv3/!svn/ver/1/vendor/plugins/delayed_job/spec/setup/active_record.rb
+END

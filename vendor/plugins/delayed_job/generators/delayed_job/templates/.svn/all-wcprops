@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/linkedinv3/!svn/ver/1/vendor/plugins/delayed_job/generators/delayed_job/templates
+END
+script
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/linkedinv3/!svn/ver/1/vendor/plugins/delayed_job/generators/delayed_job/templates/script
+END
+migration.rb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/linkedinv3/!svn/ver/1/vendor/plugins/delayed_job/generators/delayed_job/templates/migration.rb
+END

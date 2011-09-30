@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/linkedinv3/!svn/ver/1/vendor/plugins/delayed_job/contrib
+END
+delayed_job_multiple.monitrc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/linkedinv3/!svn/ver/1/vendor/plugins/delayed_job/contrib/delayed_job_multiple.monitrc
+END
+delayed_job.monitrc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/linkedinv3/!svn/ver/1/vendor/plugins/delayed_job/contrib/delayed_job.monitrc
+END

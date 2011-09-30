@@ -1,0 +1,27 @@
+<center>
+  <% form_for :image, :url=>{:controller=>"image", :action=>"upload_images"}, :html => { :multipart => true,:id=>"forms_linked" } do |f| -%>
+    <table align="center" style="width: auto" class="formgrid">
+      <caption style=";">Upload Image to get details</caption>
+      <tr>
+        <td colspan="2">
+          <%if flash[:message]%>
+            <span style="color: red;font-family: arial">
+              <%= flash[:message] %></span>
+          <% end %>
+        </td>
+      </tr>
+      <tr>
+        <td style="vertical-align: middle">
+          <label for="school ids" style="vertical-align: top;font-family:arial;font-size: 14px;">&nbsp;&nbsp;&nbsp;&nbsp;
+            Select Image: </label>&nbsp;&nbsp;</td><td>
+          <%= f.file_field :image_path, :id => "file_name"%>
+        </td>
+      </tr><tr>
+        <td>&nbsp;</td>
+        <td style="text-align: left">
+          <%= submit_tag  'Submit',:id=>"submit_tag",:disable_with => "Processing....",:class=>'text_dec'%>
+        </td>
+      </tr>
+    </table>
+  <% end -%>
+</center>

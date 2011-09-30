@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/linkedinv3/!svn/ver/1/vendor/plugins/delayed_job/spec
+END
+sample_jobs.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/linkedinv3/!svn/ver/1/vendor/plugins/delayed_job/spec/sample_jobs.rb
+END
+delayed_method_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/linkedinv3/!svn/ver/1/vendor/plugins/delayed_job/spec/delayed_method_spec.rb
+END
+worker_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/linkedinv3/!svn/ver/1/vendor/plugins/delayed_job/spec/worker_spec.rb
+END
+message_sending_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/linkedinv3/!svn/ver/1/vendor/plugins/delayed_job/spec/message_sending_spec.rb
+END
+performable_method_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/linkedinv3/!svn/ver/1/vendor/plugins/delayed_job/spec/performable_method_spec.rb
+END
+spec_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/linkedinv3/!svn/ver/1/vendor/plugins/delayed_job/spec/spec_helper.rb
+END
+story_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/linkedinv3/!svn/ver/1/vendor/plugins/delayed_job/spec/story_spec.rb
+END
